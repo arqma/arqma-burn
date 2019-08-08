@@ -1,0 +1,26 @@
+{
+  "name": "arqma-burn",
+  "version": "1.0.0",
+  "description": "Generate BURN addresses for ArQmA.",
+  "main": "generate.js",
+  "dependencies": {
+    "monero-wallet-generator": "https://github.com/variably/MoneroAddressGenerator/tarball/master",
+    "sodium-native": "^2.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arqma/arqma-burn.git"
+  },
+  "author": "SmajeNz0",
+  "license": "MIT",
+  "keywords": [
+    "ArQmA",
+    "BURN",
+    "addresses",
+    "generator"
+  ]
+}
